@@ -1,0 +1,12 @@
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\bin\Debug\net8.0\Features.deps.json
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\bin\Debug\net8.0\Features.dll
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\bin\Debug\net8.0\Features.pdb
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.AssemblyInfoInputs.cache
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.AssemblyInfo.cs
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.csproj.CoreCompileInputs.cache
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.sourcelink.json
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.dll
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\refint\Features.dll
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.pdb
+D:\Code\Github Repos\csharp-feature-testing\CSharpFeatureTesting\Features\obj\Debug\net8.0\ref\Features.dll
