@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj",
+      "projectUniqueName": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj",
       "projectName": "Features",
-      "projectPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj",
+      "projectPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj",
       "packagesPath": "C:\\Users\\TK421\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\obj\\",
+      "outputPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

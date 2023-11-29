@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj": {}
+    "D:\\Code\\Github Repos\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj": {
+    "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj",
+        "projectUniqueName": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj",
         "projectName": "Features",
-        "projectPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj",
+        "projectPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj",
         "packagesPath": "C:\\Users\\TK421\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\obj\\",
+        "outputPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj": {
+    "D:\\Code\\Github Repos\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj",
+        "projectPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\TK421\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\UnitTests\\obj\\",
+        "outputPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj": {
-                "projectPath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj"
+              "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj": {
+                "projectPath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2W78M4Hg3KIwAXmQhHtU0/OhALh4K830EIGqCEcksNHvp1B7rSxyANZPEG6Ssdw2i6DCv9jeEr69kXuPWtICw==",
+  "dgSpecHash": "YeXytIz5j23sSCGGdo1DgJgr5RPUcFkFJiLSwzM32+CAd0rtEyd9mQTGtE1vAHdcuTqpcDrUm6+wTi/JHp/xhw==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Github Repos\\csharp-feature-testing\\CSharpFeatureTesting\\Features\\Features.csproj",
+  "projectFilePath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

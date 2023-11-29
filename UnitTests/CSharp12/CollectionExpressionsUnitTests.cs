@@ -5,7 +5,7 @@ public class CollectionExpressionsUnitTests
 	[Fact]
 	public void Initializing_Array_Old_vs_New()
 	{
-		var intArrayOld = new int[] { 1, 2, 3, 4, 5 }; // before C#12
+		int[] intArrayOld = new int[] { 1, 2, 3, 4, 5 }; // before C#12
 		int[] intArrayNew = [1, 2, 3, 4, 5]; // cannot use var with this type of initialization
 
 		Assert.Equal(intArrayOld, intArrayNew);
@@ -23,7 +23,7 @@ public class CollectionExpressionsUnitTests
 	[Fact]
 	public void Initializing_TwoDArray_Old_vs_New()
 	{
-		var intTwoDArrayOld = new int[][] { [1, 2, 3], [4, 5, 6], [7, 8, 9] };
+		int[][] intTwoDArrayOld = new int[][] { [1, 2, 3], [4, 5, 6], [7, 8, 9] };
 		int[][] intTwoDArrayNew = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 
 		Assert.Equal(intTwoDArrayOld, intTwoDArrayNew);

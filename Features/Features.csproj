@@ -9,6 +9,11 @@
   <ItemGroup>
     <Folder Include="CSharp11\" />
     <Folder Include="CSharp10\" />
+    <Folder Include="CSharp12\InterceptorsFeature\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
   </ItemGroup>
 
 </Project>
