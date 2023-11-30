@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CSharp11\" />
     <Folder Include="CSharp10\" />
+    <Folder Include="CSharp11\ListPatternsFeature\" />
+    <Folder Include="CSharp11\GenericAttributesFeature\" />
     <Folder Include="CSharp12\InterceptorsFeature\" />
   </ItemGroup>
 
