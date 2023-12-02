@@ -204,3 +204,4 @@ D:\Code\Github Repos\CSharpFeatureTesting\UnitTests\obj\Debug\net8.0\refint\Unit
 D:\Code\Github Repos\CSharpFeatureTesting\UnitTests\obj\Debug\net8.0\UnitTests.pdb
 D:\Code\Github Repos\CSharpFeatureTesting\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
 D:\Code\Github Repos\CSharpFeatureTesting\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll
+D:\Code\Github Repos\CSharpFeatureTesting\UnitTests\bin\Debug\net8.0\FluentValidation.dll

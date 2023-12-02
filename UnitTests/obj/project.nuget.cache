@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NJTQkkkxit9+G5BCXflY5jFRCVVFaIP7Q+eaVzpIJZheeoIm6gilU9YAQncYqTpWrTepsUbI02TqFc0O+wY5Vw==",
+  "dgSpecHash": "H4ZwBYejMWsPPaiULrqi+eLm5dT0YZw2Re2fcT3Qc+/xbflttGsMCdGf8P/+leKZ13BDUqwCfBa5vq/5xjDYRA==",
   "success": true,
   "projectFilePath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TK421\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\TK421\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
     "C:\\Users\\TK421\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\TK421\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\TK421\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -1,5 +1,8 @@
 ﻿namespace Features.CSharp12.PrimaryConstructorsFeature;
 
+// Unlike record type primary constructors, you need to create a property for the members included
+// in your primary constructor to make them available to your class outside
+// otherwise, they are just available inside the class during initialization
 public class Product(string name, string description = "NOT_SET")
 {
 	public Product(Guid id, string name, string description = "NOT_SET") : this(name, description)

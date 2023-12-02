@@ -8,13 +8,17 @@
 
   <ItemGroup>
     <Folder Include="CSharp10\" />
-    <Folder Include="CSharp11\ListPatternsFeature\" />
     <Folder Include="CSharp11\GenericAttributesFeature\" />
+    <Folder Include="CSharp11\ListPatternsFeature\" />
     <Folder Include="CSharp12\InterceptorsFeature\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.8.1" />
   </ItemGroup>
 
 </Project>

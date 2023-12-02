@@ -5,6 +5,15 @@ namespace UnitTests.CSharp11;
 public class RawStringLiteralsUnitTests
 {
 	[Fact]
+	public void RawStringLiterals_Allow_Double_Quotes_More_Readably_()
+	{
+		string actualText = """This is my "overridden ToString" method.""";
+		string expectedText = @"This is my ""overridden ToString"" method.";
+
+		Assert.Equal(expectedText, actualText);
+	}
+
+	[Fact]
 	public void RawStringLiterals_Allow_Double_Quotes_More_Readably()
 	{
 		Person person = new Person("John", "Doe");

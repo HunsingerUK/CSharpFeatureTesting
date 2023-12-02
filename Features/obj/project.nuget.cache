@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YeXytIz5j23sSCGGdo1DgJgr5RPUcFkFJiLSwzM32+CAd0rtEyd9mQTGtE1vAHdcuTqpcDrUm6+wTi/JHp/xhw==",
+  "dgSpecHash": "KUCPE0DE+e56OhKVb0hDJ1S+RiT5qpGMhx76z/hNdpO4JGYY4B87/kQHhEGjzJB3ImtX7XDj51dH0u/MuTARAA==",
   "success": true,
   "projectFilePath": "D:\\Code\\Github Repos\\CSharpFeatureTesting\\Features\\Features.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\TK421\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
   "logs": []
 }

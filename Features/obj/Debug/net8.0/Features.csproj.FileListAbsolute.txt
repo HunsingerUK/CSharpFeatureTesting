@@ -22,3 +22,4 @@ D:\Code\Github Repos\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.dll
 D:\Code\Github Repos\CSharpFeatureTesting\Features\obj\Debug\net8.0\refint\Features.dll
 D:\Code\Github Repos\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.pdb
 D:\Code\Github Repos\CSharpFeatureTesting\Features\obj\Debug\net8.0\ref\Features.dll
+D:\Code\Github Repos\CSharpFeatureTesting\Features\obj\Debug\net8.0\Features.csproj.AssemblyReference.cache
